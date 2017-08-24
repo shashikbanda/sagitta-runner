@@ -1,0 +1,9 @@
+main
+*.png
+*.jpg
+*.jpeg
+runnerdemo
+*.o
+runner.dSYM/ 
+server.dSYM/
+runner.dSYM/
